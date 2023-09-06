@@ -1,3 +1,7 @@
+.right .nav-menu{
+    color: #000;
+}
+
 /*全局基础样式*/
 /*小屏幕下(手机类)的样式*/
 @media only screen and (max-width: 601px) {
@@ -241,7 +245,7 @@ mark {
 }
 
 .bg-color {
-    background-image: linear-gradient(to right, #4cbf30 0%, #0f9d58 100%);
+    background-image: linear-gradient(to right, #f9c6cf 0%, #ffc0cb 100%);
 }
 
 .text-color {
@@ -1839,11 +1843,11 @@ footer .social-statis {
 }
 
 footer a {
-    color: #fff;
+    color: #000;
 }
 
 footer .copy-right {
-    color: #dbdbdb;
+    color: #000;
 }
 
 /*搜索层样式*/
